@@ -1,5 +1,3 @@
-from imaplib import Flags
-
 print('I\'m ok.')
 
 ## \n 换行 \t 制表符
